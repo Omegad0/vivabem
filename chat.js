@@ -1,5 +1,5 @@
 // Replace with your public HTTPS RAG webhook. Configure CORS on the server.
-const WEBHOOK_URL = '';
+const WEBHOOK_URL = 'https://lucianocl.app.n8n.cloud/webhook/suporte';
 const chat = document.querySelector('#chat');
 const form = document.querySelector('#form');
 const input = document.querySelector('#message');
